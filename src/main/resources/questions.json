@@ -1,0 +1,172 @@
+[
+ {
+    "question": "Quelle est la capitale de la France ?",
+    "choices": ["Lyon", "Marseille", "Paris", "Nice"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Quel langage compile en bytecode pour la JVM ?",
+    "choices": ["C++", "Kotlin", "Ruby", "JavaScript"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quelle est la plus grande planète du système solaire ?",
+    "choices": ["Terre", "Jupiter", "Saturne", "Mars"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Qui a écrit « Les Misérables » ?",
+    "choices": ["Émile Zola", "Victor Hugo", "Gustave Flaubert", "Honoré de Balzac"],
+    "answerIndex": 2
+  },
+  {
+    "question": "En quelle année l’homme a-t-il marché sur la Lune pour la première fois ?",
+    "choices": ["1965", "1969", "1972", "1959"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quel est le symbole chimique de l’eau ?",
+    "choices": ["O₂", "H₂O", "CO₂", "NaCl"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quel code de statut HTTP signifie « OK » ?",
+    "choices": ["200", "404", "500", "301"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Combien y a-t-il de continents sur Terre ?",
+    "choices": ["5", "6", "7", "8"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Quel est l’océan le plus vaste du monde ?",
+    "choices": ["Atlantique", "Indien", "Arctique", "Pacifique"],
+    "answerIndex": 4
+  },
+  {
+    "question": "Quelle est la vitesse approximative de la lumière dans le vide (km/s) ?",
+    "choices": ["300 000", "150 000", "75 000", "450 000"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Qui a peint la Joconde ?",
+    "choices": ["Pablo Picasso", "Léonard de Vinci", "Vincent van Gogh", "Michel-Ange"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quelle est la racine carrée de 64 ?",
+    "choices": ["6", "7", "8", "9"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Quelle couleur n’est PAS une couleur primaire en synthèse additive ?",
+    "choices": ["Rouge", "Vert", "Bleu", "Jaune"],
+    "answerIndex": 4
+  },
+  {
+    "question": "Que signifie HTML ?",
+    "choices": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTransfer Markup Language",
+      "Hyperlinks and Text Markup Language"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Que signifie CSS ?",
+    "choices": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Colorful Styling Scripts"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "En quelle année JavaScript a-t-il été créé ?",
+    "choices": ["1991", "1995", "2000", "2005"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Que signifie CPU ?",
+    "choices": [
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processing Unit",
+      "Control Processing Unit"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "question": "Quel mot-clé Java utilise-t-on pour définir une classe ?",
+    "choices": ["class", "def", "struct", "module"],
+    "answerIndex": 1
+  },
+  {
+    "question": "Que signifie JSON ?",
+    "choices": [
+      "JavaScript Object Notation",
+      "Java Source Open Network",
+      "Joined Standard Operations Notation",
+      "Java System Object Notation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "question": "Qui a découvert la pénicilline ?",
+    "choices": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quelle est la centrale énergétique de la cellule ?",
+    "choices": ["Noyau", "Mitochondrie", "Ribosome", "Appareil de Golgi"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quel élément a pour numéro atomique 6 ?",
+    "choices": ["Azote", "Carbone", "Oxygène", "Hydrogène"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Combien y a-t-il de bits dans un octet (byte) ?",
+    "choices": ["4", "8", "16", "32"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quelle valeur approchée de π (pi) ?",
+    "choices": ["2.14", "3.14", "4.14", "5.14"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Qui a écrit « 1984 » ?",
+    "choices": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "J.R.R. Tolkien"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quel est le plus petit nombre premier ?",
+    "choices": ["0", "1", "2", "3"],
+    "answerIndex": 3
+  },
+  {
+    "question": "En quelle année la Seconde Guerre mondiale s'est-elle terminée ?",
+    "choices": ["1942", "1945", "1948", "1950"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "choices": ["Dollar", "Yuan", "Yen", "Won"],
+    "answerIndex": 3
+  },
+  {
+    "question": "Quel gaz est le plus abondant dans l’atmosphère terrestre ?",
+    "choices": ["Oxygène", "Azote", "Dioxyde de carbone", "Hydrogène"],
+    "answerIndex": 2
+  },
+  {
+    "question": "Qui est le PDG de Tesla ?",
+    "choices": ["Jeff Bezos", "Elon Musk", "Bill Gates", "Mark Zuckerberg"],
+    "answerIndex": 2
+  }
+]
